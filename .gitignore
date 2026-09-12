@@ -1,0 +1,7 @@
+*.class
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+*.launch
