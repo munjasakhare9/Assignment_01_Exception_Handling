@@ -6,9 +6,9 @@ public class MainClass {
 		
 		//Student class object for fill form
 		Student s1=new Student();
-		s1.setEmail("munja@gami.com");
-		s1.setPassword("pass@123");
-		s1.setName("Munja Sakhare");
+		s1.setEmail("raj123gmail.com");
+		s1.setPassword("abAc@");
+		s1.setName("Raj Verma");
 		s1.setAge(1);
 		s1.setGender("male");
 		
